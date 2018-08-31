@@ -1,0 +1,10 @@
+.centro {
+    position:absolute;
+    left:45%;
+    margin-left:-50px;
+}
+
+#title{
+    margin-left: 25%;
+    margin-right: 25%;
+}
